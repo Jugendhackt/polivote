@@ -19,5 +19,5 @@ from polls import views
 
 urlpatterns = [
    url(r'^admin/', include(admin.site.urls)),
-   url(r'hallo', views.hallo)
+   url(r'', views.hallo)
 ]
