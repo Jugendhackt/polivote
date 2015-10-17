@@ -1,26 +1,23 @@
-h1{
-    color:#b90303;
+h1 {
+    color: #b90303;
     font-size: 100px;
     border-radius: 100px;
     margin-top: 20px;
-    
-   
-    
 }
-#Block{
+
+#Block {
     color: green;
     background-color: black;
+}
 
-    
-}
-#Bild{
+#Bild {
     width: 300px;
-    position:absolute;
+    position: absolute;
     top: 0;
-        
 }
-#Header{
-     margin-top: 0;
+
+#Header {
+    margin-top: 0;
     margin-left: 0;
     height: 300;
     width: 100%;
@@ -29,15 +26,30 @@ h1{
     background-position: center top;
     padding-top: 97px;
     background-size: 100%;
-    background-image:url("http://ema-hamburg.org/media/DE/akad/RTPG/2304-deutscher-bundestag.bmp")
+    background-image: url("http://ema-hamburg.org/media/DE/akad/RTPG/2304-deutscher-bundestag.bmp")
 }
-body{
+
+body {
     width: 100%;
     margin: 0;
 }
-html{
+
+html {
     width: 100%;
 }
-#Kasten{
+
+#Kasten {
     border: 2px;
+}
+
+div.jumbotron > button {
+    width: 100px;
+}
+
+div.progress {
+    height: 40px;
+}
+
+div.progress > div.progress-bar {
+    line-height: 40px;
 }
