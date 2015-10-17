@@ -1,5 +1,6 @@
-h1 {
-    color: #b90303;
+#Header > h1 {
+    color: white;
+    text-shadow: 4px 4px 1px rgba(150, 150, 150, 1);
     font-size: 100px;
     border-radius: 100px;
     margin-top: 20px;
