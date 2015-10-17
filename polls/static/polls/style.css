@@ -27,7 +27,7 @@
     background-position: center top;
     padding-top: 97px;
     background-size: 100%;
-    background-image: url("http://ema-hamburg.org/media/DE/akad/RTPG/2304-deutscher-bundestag.bmp")
+    background-image: url("/static/polls/deutscher-bundestag.bmp");
 }
 
 body {
