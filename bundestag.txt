@@ -1,0 +1,579 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de" lang="de" dir="ltr">
+<head>
+    <meta http-equiv="language" content="de"/>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<meta name="publisher" content="Deutscher Bundestag"/>
+<meta name="copyright" content="Deutscher Bundestag"/>
+<meta name="revisit" content="7"/>
+<meta name="audience" content="all"/>
+
+<meta name="robots" content="index, follow" />
+    <meta name="keywords" content=", ,"/>
+
+<meta name="date" content="04.11.2015" />
+<meta name="WT.ti" content="132. Sitzung, Mittwoch, 04.11.2015, 13.00 - ca. 15.25 Uhr"/>
+
+<meta name="description" content="Zusatzpunkt 5 a) - Zweite und dritte Beratung des von den Fraktionen der CDU/CSU und SPD  eingebrachten Entwurfs eines Gesetzes zur Einführung einer Speicherpflicht und Höchstspeicherfrist für Verkehrsdaten  Drucksache 18/5088  - Zweite und dritte Beratung des von der Bundesregierung  eingebracht..." /><link rel="shortcut icon"  href="/blob/268162/e8bddff8373827cfc66609ca9697a45d/homepage-favicon.ico"/>
+<link rel="stylesheet" type="text/css" href="/resources/196702/0/-1898424577/tagesordnungen.css"/><!--[if IE 6]>
+  <link rel="stylesheet" type="text/css" href="/resources/13218/13/rahmenie6.css"/>
+  <![endif]-->
+  <!--[if IE 7]>
+  <link rel="stylesheet" type="text/css" href="/resources/13274/13/rahmenie7.css"/>
+  <![endif]-->
+  <!--[if IE 8]>
+  <link rel="stylesheet" type="text/css" href="/resources/13216/13/rahmenie8.css"/>
+  <![endif]-->
+  <!--[if IE 9]>
+  <link rel="stylesheet" type="text/css" href="/resources/13198/13/rahmenie9.css"/>
+  <![endif]-->
+  <!--[if IE 6]>
+  <link rel="stylesheet" type="text/css" href="/resources/13210/17/inhaltie6.css"/>
+  <![endif]-->
+  <!--[if IE 7]>
+  <link rel="stylesheet" type="text/css" href="/resources/13256/18/inhaltie7.css"/>
+  <![endif]-->
+  <!--[if IE 8]>
+  <link rel="stylesheet" type="text/css" href="/resources/13272/16/inhaltie8.css"/>
+  <![endif]-->
+  <!--[if IE 9]>
+  <link rel="stylesheet" type="text/css" href="/resources/13242/16/inhaltie9.css"/>
+  <![endif]-->
+  <link rel="stylesheet" type="text/css" href="/resources/13244/15/print.css" media="print" />
+
+<link rel="stylesheet" type="text/css" href="https://www.bundestag.de/apps/styleswitcher/custom.css" media="screen, projection" /><script type="text/javascript" src="/resources/196702/0/-725227405/tagesordnungen.js"></script>
+<title>Deutscher Bundestag - 132. Sitzung, Mittwoch, 04.11.2015, 13.00 - ca. 15.25 Uhr</title>
+
+
+</head>
+<body >
+<!-- Piwik -->
+    <script type="text/javascript">
+        var _paq = _paq || [];
+		_paq.push(['disableCookies']);
+        _paq.push(['trackPageView']);
+        _paq.push(['trackAllContentImpressions']);
+        _paq.push(['enableLinkTracking']);
+        (function() {
+            var u="//statistik.bundestag.de/";
+            _paq.push(['setTrackerUrl', u+'piwik.php']);
+            _paq.push(['setSiteId', 1]);
+            var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+            g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+        })();
+    </script>
+    <noscript><p><img src="//statistik.bundestag.de/piwik.php?idsite=1&amp;rec=1" style="border:0;" alt="" /></p></noscript>
+    <!-- End Piwik Code -->
+<a name="top"></a>
+        <div id="wrap"  >
+            <a class="skip" href="#inhalt">Direkt zum Inhalt springen</a>
+<a class="skip" href="http://m.bundestag.de">Mobile Webseite des Bundestages</a>
+
+<div id="serviceLeiste">
+  <div class="navigation">
+    <h1 class="hidden">Service-Navigation</h1>
+    <h2 class="hidden">Sprache ändern</h2>
+    <ul class="sprache">
+      <li class="gebaerdensprache"><a href="/gebaerdensprache" hreflang="de" lang="de" xml:lang="de">Gebärdensprache</a></li>
+    <li><a href="/leichte_sprache" hreflang="de" lang="de" xml:lang="de">Leichte Sprache</a></li>
+  <li><a href="/htdocs_e" hreflang="en" lang="en" xml:lang="en">English</a></li>
+  <li><a href="/htdocs_f" hreflang="fr" lang="fr" xml:lang="fr">Français</a></li>
+  <li><a href="/ar" hreflang="ar" lang="ar" xml:lang="ar"><img src="/blob/271578/8d2301b24f33bf03e9e93fb81330bfd7/ar_logo-data.gif" alt="al-arabiyya" class="" /></a></li>
+  </ul>
+    <h2 class="hidden">Service-Link</h2>
+    <ul class="service">
+      <li><a href="/service/hilfe">Hilfe</a></li><li><a href="/service/sitemap">Inhaltsübersicht</a></li><li><a href="/service/kontakt">Kontakt</a></li></ul>
+  </div>
+  <div class="ecke">&nbsp;</div>
+</div>
+
+<div id="bildLeiste">
+
+  <div class="logo"><a href="/" title="Startseite"><img src="/blob/12770/d0cef168c20996e8ddfc994e3c5a9d0f/logo_bundestag-jpg-data.jpg" alt="Bildwortmarke: Deutscher Bundestag" class="" /></a></div>
+  <div class="banner">&nbsp;</div>
+
+  <div class="schnellsuche">
+    <form action="http://suche.bundestag.de/search_bt.do" method="get">
+      <input type="hidden" name="resultsPerPage" value="10" />
+      <input type="hidden" name="language" value="de" />
+      <label for="form_schnellsuche" class="hidden">Suche</label>
+      <input type="text" name="queryAll" id="form_schnellsuche" value="" class="input" />
+      <input type="image" name="Suche abschicken" value="Suche abschicken" src="/blob/13112/bad38c69a65c080e4c3192e4dd64aba9/schnellsuche_submit-gif-data.gif" class="submit" alt="Suche abschicken" />
+      </form>
+  </div>
+
+</div>
+<br class="clear ohneAbstaende" />
+
+
+<div id="hauptNavigation">
+  <h1 class="hidden">Hauptnavigation</h1>
+  <ul class="navigation">
+    <!-- CMChannel.asCommonTopNavLvl1.jsp -->
+
+<li>
+        <div>
+          <div>
+            <a href="/bundestag" class="ersteEbene">Der Bundestag<!--[if gte IE 7]><!--></a><!--<![endif]-->
+          </div>
+        </div>
+        <!--[if lte IE 6]><table><tr><td><![endif]-->
+        <ul>
+          <li class="first">
+            <div>
+              <a title="" href="/bundestag">
+                Übersicht<span class="unsichtbar">Der Bundestag</span>
+              </a>
+            </div>
+          </li>
+          <li>
+    <a href="/bundestag/aufgaben">Aufgaben</a>
+  </li>
+<li>
+    <a href="/abgeordnete">Abgeordnete</a>
+  </li>
+<li>
+    <a href="/bundestag/plenum">Plenum</a>
+  </li>
+<li>
+    <a href="/ausschuesse">Ausschüsse</a>
+  </li>
+<li>
+    <a href="/bundestag/gremien18">Weitere Gremien</a>
+  </li>
+<li>
+    <a href="/bundestag/praesidium">Präsidium</a>
+  </li>
+<li>
+    <a href="/bundestag/aeltestenrat">Ältestenrat</a>
+  </li>
+<li>
+    <a href="/bundestag/fraktionen">Fraktionen</a>
+  </li>
+<li>
+    <a href="/bundestagswahl">Wahlen</a>
+  </li>
+<li>
+    <a href="/internationales">Europa und Internationales</a>
+  </li>
+<li>
+    <a href="https://epetitionen.bundestag.de/">Petitionen</a>
+  </li>
+<li>
+    <a href="/bundestag/wehrbeauftragter">Wehrbeauftragter</a>
+  </li>
+<li>
+    <a href="/parteienfinanzierung">Parteienfinanzierung</a>
+  </li>
+<li>
+    <a href="/bundestag/verwaltung">Verwaltung</a>
+  </li>
+</ul>
+        <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+      </li>
+    <!-- CMChannel.asCommonTopNavLvl1.jsp -->
+
+<li class="aktiv">
+        <div>
+          <div>
+            <span class="keinMenu">
+              <a href="/dokumente" class="ersteEbene">Dokumente<!--[if gte IE 7]><!--></a><!--<![endif]-->
+            </span>
+          </div>
+        </div>
+      </li>
+    <!-- CMChannel.asCommonTopNavLvl1.jsp -->
+
+<li>
+        <div>
+          <div>
+            <a href="/mediathek" class="ersteEbene">Mediathek<!--[if gte IE 7]><!--></a><!--<![endif]-->
+          </div>
+        </div>
+        <!--[if lte IE 6]><table><tr><td><![endif]-->
+        <ul>
+          <li class="first">
+            <div>
+              <a title="" href="/mediathek">
+                Übersicht<span class="unsichtbar">Mediathek</span>
+              </a>
+            </div>
+          </li>
+          <li>
+    <a href="http://www.bundestag.de/mediathek/?action=tv&amp;categorie=Jetzt im Parlamentsfernsehen">Jetzt im Parlamentsfernsehen</a>
+  </li>
+<li>
+    <a href="http://www.bundestag.de/apps/url/mediathek/plenarsitzungen">Plenarsitzungen</a>
+  </li>
+<li>
+    <a href="http://www.bundestag.de/apps/url/mediathek/ausschusssitzungen">Ausschusssitzungen</a>
+  </li>
+<li>
+    <a href="http://www.bundestag.de/apps/url/mediathek/wissenschaftsforen">Wissenschaftsforen</a>
+  </li>
+<li>
+    <a href="http://www.bundestag.de/apps/url/mediathek/sonderveranstaltungen">Sonderveranstaltungen</a>
+  </li>
+<li>
+    <a href="http://www.bundestag.de/apps/url/mediathek/interviews">Interviews</a>
+  </li>
+<li>
+    <a href="http://www.bundestag.de/mediathek/?categorie=Kurzbeitr%C3%A4ge&amp;action=search&amp;mask=search&amp;contentArea=common&amp;instance=m187">Kurzbeiträge</a>
+  </li>
+<li>
+    <a href="http://www.bundestag.de/apps/url/mediathek/reportagen">Reportagen</a>
+  </li>
+<li>
+    <a href="http://www.bundestag.de/apps/url/mediathek/bundestags-abc">Bundestags-ABC</a>
+  </li>
+<li>
+    <a href="/tv">Das Parlamentsfernsehen</a>
+  </li>
+</ul>
+        <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+      </li>
+    <!-- CMChannel.asCommonTopNavLvl1.jsp -->
+
+<li>
+        <div>
+          <div>
+            <a href="/kulturundgeschichte" class="ersteEbene">Kultur &amp; Geschichte<!--[if gte IE 7]><!--></a><!--<![endif]-->
+          </div>
+        </div>
+        <!--[if lte IE 6]><table><tr><td><![endif]-->
+        <ul>
+          <li class="first">
+            <div>
+              <a title="" href="/kulturundgeschichte">
+                Übersicht<span class="unsichtbar">Kultur &amp; Geschichte</span>
+              </a>
+            </div>
+          </li>
+          <li>
+    <a href="/kulturundgeschichte/ausstellungen">Ausstellungen</a>
+  </li>
+<li>
+    <a href="/architektur">Architektur</a>
+  </li>
+<li>
+    <a href="/kunst">Kunst im Bundestag</a>
+  </li>
+<li>
+    <a href="/kulturundgeschichte/geschichte">Geschichte</a>
+  </li>
+<li>
+    <a href="/staatliche_symbole">Staatliche Symbole</a>
+  </li>
+<li>
+    <a href="/parlamentspreise">Parlamentspreise</a>
+  </li>
+</ul>
+        <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+      </li>
+    <!-- CMChannel.asCommonTopNavLvl1.jsp -->
+
+<li>
+        <div>
+          <div>
+            <a href="/presse" class="ersteEbene">Presse<!--[if gte IE 7]><!--></a><!--<![endif]-->
+          </div>
+        </div>
+        <!--[if lte IE 6]><table><tr><td><![endif]-->
+        <ul>
+          <li class="first">
+            <div>
+              <a title="" href="/presse">
+                Übersicht<span class="unsichtbar">Presse</span>
+              </a>
+            </div>
+          </li>
+          <li>
+    <a href="/presse/pressemitteilungen">Pressemitteilungen</a>
+  </li>
+<li>
+    <a href="/hib">Aktuelle Meldungen (hib)</a>
+  </li>
+<li>
+    <a href="/akkreditierung">Akkreditierung</a>
+  </li>
+<li>
+    <a href="/presse/terminsuche">Termine</a>
+  </li>
+<li>
+    <a href="http://bilderdienst.bundestag.de">Bilderdienst, Bildarchiv</a>
+  </li>
+<li>
+    <a href="/mediathek/parlamentstv/mitschnittservice">Mitschnittservice</a>
+  </li>
+<li>
+    <a href="/presse/pressedokumentation">Pressedokumentation</a>
+  </li>
+<li>
+    <a href="/presse/ansprechpartner">Kontakt</a>
+  </li>
+</ul>
+        <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+      </li>
+    <!-- CMChannel.asCommonTopNavLvl1.jsp -->
+
+<li>
+        <div>
+          <div>
+            <a href="/besucher" class="ersteEbene">Besuchen Sie uns<!--[if gte IE 7]><!--></a><!--<![endif]-->
+          </div>
+        </div>
+        <!--[if lte IE 6]><table><tr><td><![endif]-->
+        <ul>
+          <li class="first">
+            <div>
+              <a title="" href="/besucher">
+                Übersicht<span class="unsichtbar">Besuchen Sie uns</span>
+              </a>
+            </div>
+          </li>
+          <li>
+    <a href="/besuche/kuppel-dachterrasseunddachgartenrestaurant">Kuppel, Dachterrasse und Dachgartenrestaurant</a>
+  </li>
+<li>
+    <a href="/besuche/fuehrungen">Führungen und Vorträge</a>
+  </li>
+<li>
+    <a href="/besuche/besucheinerplenarsitzung">Besuch einer Plenarsitzung</a>
+  </li>
+<li>
+    <a href="/besuche/besuchaufeinladungeinesabgeordneten">Einladung durch Abgeordnete</a>
+  </li>
+<li>
+    <a href="/besuche/kinderundjugendliche">Angebote für Kinder und Jugendliche</a>
+  </li>
+<li>
+    <a href="/besuche/ausstellungen1">Ausstellungen</a>
+  </li>
+<li>
+    <a href="/unterwegs">Bundestag in Ihrer Nähe</a>
+  </li>
+<li>
+    <a href="https://visite.bundestag.de/BAPWeb/pages/createBookingRequest.jsf">Online-Anmeldung Besucherdienst</a>
+  </li>
+<li>
+    <a href="/tea">Tag der offenen Tür</a>
+  </li>
+<li>
+    <a href="/besuche/deutsche_einheit">Tag der Deutschen Einheit</a>
+  </li>
+</ul>
+        <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+      </li>
+    <!-- CMChannel.asCommonTopNavLvl1.jsp -->
+
+<li>
+        <div>
+          <div>
+            <a href="/service" class="ersteEbene">Service<!--[if gte IE 7]><!--></a><!--<![endif]-->
+          </div>
+        </div>
+        <!--[if lte IE 6]><table><tr><td><![endif]-->
+        <ul>
+          <li class="first">
+            <div>
+              <a title="" href="/service">
+                Übersicht<span class="unsichtbar">Service</span>
+              </a>
+            </div>
+          </li>
+          <li>
+    <a href="/service/glossar">A - Z</a>
+  </li>
+<li>
+    <a href="/service/faq">Häufig gestellte Fragen</a>
+  </li>
+<li>
+    <a href="/service/steckbrief">Steckbrief</a>
+  </li>
+<li>
+    <a href="/service/quiz">Das Quiz zum Deutschen Bundestag</a>
+  </li>
+<li>
+    <a href="https://www.btg-bestellservice.de/">Informationsmaterial bestellen</a>
+  </li>
+<li>
+    <a href="/service/bundestagsshop">Bundestagsshop</a>
+  </li>
+<li>
+    <a href="/btnewsletter">Newsletter</a>
+  </li>
+<li>
+    <a href="/rss">RSS</a>
+  </li>
+<li>
+    <a href="/ausschreibung">Öffentliche Ausschreibungen</a>
+  </li>
+<li>
+    <a href="/jobs">Stellenangebote</a>
+  </li>
+<li>
+    <a href="/ausbildung">Ausbildung</a>
+  </li>
+<li>
+    <a href="/service/formulare_index">Formulare und Anträge</a>
+  </li>
+<li>
+    <a href="/service/tms_index">Parlamentsbegriffe Deutsch, Englisch, Französisch, Spanisch</a>
+  </li>
+<li>
+    <a href="/service/links">Links</a>
+  </li>
+<li>
+    <a href="/service/kontakt">Kontakt</a>
+  </li>
+</ul>
+        <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+      </li>
+    <!-- CMChannel.asCommonTopNavLvl1.jsp -->
+
+</ul>
+</div>
+
+<br class="clear" />
+
+<div id="ohneContext">
+        <div id="zierElemente">
+            <div class="zierLinks">&nbsp;</div>
+            <div class="zierMitte">&nbsp;</div>
+            <div class="zierRechts">&nbsp;</div>
+        </div>
+    <br class="clear ohneAbstaende"/><div id="wrapperLinks" class="clearFix">
+    <div id="wrapperRechts" class="clearFix">
+        <div id="container">
+            <div id="navigation">
+                    <h1 class="hidden">Navigationsbereich</h1>
+<div class="navigationBox">
+    <div id="navigationMenu">
+      <ul>
+          <li class="noSub">
+        <div class="aktiv">
+        <strong>
+              <a  href="/tagesordnung">Tagesordnungen</a></strong>
+          </div>
+      </li>
+    <li class="noSub">
+        <div>
+          <a  href="/drs">Drucksachen</a></div>
+      </li>
+    <li class="noSub">
+        <div>
+          <a  href="/protokolle">Protokolle</a></div>
+      </li>
+    <li class="noSub">
+        <div>
+          <a  href="http://dipbt.bundestag.de/dip21.web/bt">Dokumentations- und Informationssystem (DIP)</a></div>
+      </li>
+    <li class="noSub">
+        <div>
+          <a  href="/parlamentsdokumentation">Parlamentsdokumentation</a></div>
+      </li>
+    <li class="noSub">
+        <div>
+          <a  href="/analysen">Fachinformationen und Analysen</a></div>
+      </li>
+    <li class="noSub">
+        <div>
+          <a  href="/dokumente/parlamentsarchiv">Parlamentsarchiv</a></div>
+      </li>
+    <li class="noSub">
+        <div>
+          <a  href="/datenhandbuch">Datenhandbuch</a></div>
+      </li>
+    <li class="noSub">
+        <div>
+          <a  href="/dokumente/bibliothek">Bibliothek</a></div>
+      </li>
+    <li class="noSub">
+        <div>
+          <a  href="/dokumente/textarchiv">Web- und Textarchiv</a></div>
+      </li>
+    <li class="noSub">
+        <div>
+          <a  href="/dokumente/lobbyliste">Registrierte Verbände</a></div>
+      </li></ul>
+    </div>
+  </div>
+<br class="clear" />
+
+
+</div>
+            <div id="inhaltsbereich" >
+    <a name="inhalt"></a>
+
+<div id="breadcrumb">
+    <div class="content">
+        <p class="keinAbstand">
+            <span class="hide">Navigationspfad:</span>
+            <a href="/">Startseite</a>
+                
+                        &gt;
+                    <a href="/dokumente">Dokumente</a>
+                
+                        &gt;
+                    <a href="/tagesordnung">Tagesordnungen</a>
+                </p>
+    </div>
+</div><div class="inhalt">
+    <h1>132. Sitzung, Mittwoch, 04.11.2015, 13.00 - ca. 15.25 Uhr</h1><div class="standardBox">
+    <h4>Zusatzpunkt 5</h4><p>a) - Zweite und dritte Beratung des von den Fraktionen der CDU/CSU und SPD <br/>eingebrachten Entwurfs eines Gesetzes zur Einführung einer Speicherpflicht und Höchstspeicherfrist für Verkehrsdaten <br/>Drucksache <a class="dipLink" title="Die PDF-Datei Drucksache 18/5088 öffnet sich in einem neuen Fenster" href="http://dip.bundestag.de/btd/18/050/1805088.pdf" target="_blank">18/5088</a> <br/>- Zweite und dritte Beratung des von der Bundesregierung <br/>eingebrachten Entwurfs eines Gesetzes zur Einführung einer Speicherpflicht und Höchstspeicherfrist für Verkehrsdaten<br/>Drucksache <a class="dipLink" title="Die PDF-Datei Drucksache 18/5171 öffnet sich in einem neuen Fenster" href="http://dip.bundestag.de/btd/18/051/1805171.pdf" target="_blank">18/5171</a> <br/>Beschlussempfehlung und Bericht des Ausschusses für Recht und Verbraucherschutz (6. Ausschuss)<br/>Drucksache <a class="dipLink" title="Die PDF-Datei Drucksache 18/6391 öffnet sich in einem neuen Fenster" href="http://dip.bundestag.de/btd/18/063/1806391.pdf" target="_blank">18/6391</a><br/>b) Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Recht und Verbraucherschutz (6. Ausschuss) <br/>zu dem Antrag der Fraktion DIE LINKE. <br/>Auf Vorratsdatenspeicherung verzichten<br/>Drucksachen <a class="dipLink" title="Die PDF-Datei Drucksache 18/4971 öffnet sich in einem neuen Fenster" href="http://dip.bundestag.de/btd/18/049/1804971.pdf" target="_blank">18/4971</a>, <a class="dipLink" title="Die PDF-Datei Drucksache 18/6391 öffnet sich in einem neuen Fenster" href="http://dip.bundestag.de/btd/18/063/1806391.pdf" target="_blank">18/6391</a><br/>(ZP 5, 01:25 Stunden)</p><p/><h4>Tagesordnungspunkt 26</h4><p>Beratung des Antrags der Fraktion DIE LINKE.<br/>Krankenhäuser gemeinwohlorientiert und bedarfsgerecht finanzieren<br/>Drucksache <a class="dipLink" title="Die PDF-Datei Drucksache 18/6326 öffnet sich in einem neuen Fenster" href="http://dip.bundestag.de/btd/18/063/1806326.pdf" target="_blank">18/6326</a><br/>(TOP 26, 01:25 Stunden)</p><p/><h4>Tagesordnungspunkt 27</h4><p>Beratung des Antrags der Fraktionen der CDU/CSU und SPD<br/>Den Lebensstart von Kindern in Entwicklungs- und Schwellenländern verbessern <br/>- Grundlagen für stabile Gesellschaften schaffen<br/>Drucksache <a class="dipLink" title="Die PDF-Datei Drucksache 18/6329 öffnet sich in einem neuen Fenster" href="http://dip.bundestag.de/btd/18/063/1806329.pdf" target="_blank">18/6329</a><br/>(TOP 27, 00:45 Stunden)</p><p/><h4>Tagesordnungspunkt 28</h4><p>Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Modernisierung des Vergaberechts (Vergaberechtsmodernisierungsgesetz - VergRModG)<br/>Drucksache <a class="dipLink" title="Die PDF-Datei Drucksache 18/6281 öffnet sich in einem neuen Fenster" href="http://dip.bundestag.de/btd/18/062/1806281.pdf" target="_blank">18/6281</a><br/>(TOP 28, 00:45 Stunden)</p><p/><h4>Tagesordnungspunkt 29</h4><p>Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Wirtschaft und Energie (9. Ausschuss) <br/>- zu dem Antrag der Fraktion DIE LINKE. <br/>Bad Bank-Pläne der Atomkonzerne zurückweisen - Rückstellungen der AKW-Betreiber in einen öffentlich-rechtlichen Fonds überführen<br/>- zu dem Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN <br/>Keine Bad Bank für Atom-Rückstellungen der Atomwirtschaft in öffentlich-rechtlichem Fonds sicherstellen<br/>Drucksachen <a class="dipLink" title="Die PDF-Datei Drucksache 18/1959 öffnet sich in einem neuen Fenster" href="http://dip.bundestag.de/btd/18/019/1801959.pdf" target="_blank">18/1959</a>, <a class="dipLink" title="Die PDF-Datei Drucksache 18/1465 öffnet sich in einem neuen Fenster" href="http://dip.bundestag.de/btd/18/014/1801465.pdf" target="_blank">18/1465</a>, <a class="dipLink" title="Die PDF-Datei Drucksache 18/6382 öffnet sich in einem neuen Fenster" href="http://dip.bundestag.de/btd/18/063/1806382.pdf" target="_blank">18/6382</a><br/>(TOP 29, 00:45 Stunden)</p></div>
+<br class="clear"/>
+    </div></div>
+
+<div id="context">
+    <h1 class="hidden">Weitere Informationen</h1>
+    <div class="namentlichAuswahl none" id="namentlichBioPopup"></div>
+    </div>
+</div>
+    </div>
+</div>
+<br class="clear" /><div id="footerLinks">
+  <div class="content">
+    <div class="links">
+      <ul>
+        <li><a href="/impressum" title="Impressum">Impressum</a>|</li><li><a href="/service/datenschutz" title="Datenschutz">Datenschutz</a></li></ul>
+    </div>
+    <div class="rechts"><p class="keinAbstand"><a href="#top" class="seitenanfang">Seitenanfang</a></p></div>
+    <br class="clear" />
+    <div class="linie">&nbsp;</div>
+    <div class="service">
+      <ul>
+        <li><a href="javascript:void(0)" class="lesezeichen none">Lesezeichen</a></li>
+        <li>
+          <a href="/blueprint/servlet/page/bt/service/empfehlen?siteid=286440&amp;link=/dokumente/tagesordnungen/" class="empfehlen">Seite empfehlen</a>
+        </li>
+        <li><a href="javascript:void(0)" class="drucken_bilder none">Drucken mit Bildern</a></li>
+        <li><a href="javascript:void(0)" class="drucken none">Drucken ohne Bilder</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="zierRechts">&nbsp;</div>
+</div>
+<br class="clear" />
+<div id="footer">
+  <div class="content">
+    <div><p class="keinAbstand">© Deutscher Bundestag</p></div>
+  </div>
+  <div class="zierRechts">&nbsp;</div>
+</div>
+</div>
+        <div id="printFooter">
+  <br class="clear" />
+  <hr />
+  <br class="clear" />
+  <div class="standardBox">
+    <p>Ausdruck aus dem Internet-Angebot des Deutschen Bundestages<br />
+      /dokumente/tagesordnungen/tagesordnung_132/286440<br />
+             Stand: 17.10.2015</p>
+  </div>
+</div>
+<!-- s160115.rz.babiel.com -->
+</body>
+</html>

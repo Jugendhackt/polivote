@@ -3,9 +3,28 @@ from bs4 import BeautifulSoup
 import requests
 from datetime import datetime
 from .models import Entry
-from django.shortcuts import render
+from django.shortcuts import render, redirect
 
 def hallo(request):#
+
+
+
+    if request.method == "POST":
+        entry_id = request.POST.get("entry")
+        entry = Entry.objects.get(id=entry_id )
+        if "up" in request.POST:
+            entry.upvotes = entry.upvotes +1
+        elif "down" in request.POST:
+            entry.downvotes = entry.downvotes +1
+
+        entry.save()
+        return redirect("/hallo#entry-" + str(entry.id))
+
+
+
+
+
+
 
     hauptseite = requests.get("http://www.bundestag.de/tagesordnung")
     soup = BeautifulSoup(hauptseite.text, 'html.parser')
