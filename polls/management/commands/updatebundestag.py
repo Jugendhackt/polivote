@@ -9,12 +9,12 @@ class Command(BaseCommand):
 
     def handle(self, *args, **options):
 
-        hauptseite = requests.get("http://www.bundestag.de/tagesordnung")
+        hauptseite = requests.get("http://www.bundestag.de/tagesordnung", verify=False)
         soup = BeautifulSoup(hauptseite.text, 'html.parser')
         verlinkung = soup.select("div.linkIntern a")[0]
         verlinkung["href"]
         urle = "http://www.bundestag.de" + verlinkung["href"]
-        response = requests.get(urle)
+        response = requests.get(urle, verify=False)
 
         #file = open("C:\Users\Tadeo\mysite\\bundestag.txt","r").read().decode("utf-8")
         soup = BeautifulSoup(response.text, 'html.parser')
