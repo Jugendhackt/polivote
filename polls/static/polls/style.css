@@ -42,7 +42,7 @@ html {
     border: 2px;
 }
 
-div.jumbotron > button {
+div.jumbotron > form > button {
     width: 100px;
 }
 
