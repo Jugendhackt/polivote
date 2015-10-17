@@ -1,5 +1,7 @@
 # polivote
 
+![Screenshot](https://raw.githubusercontent.com/Jugendhackt/polivote/master/docs/polivote.jpg)
+
 Polivote ist eine Seite wo man Reformvorschläge bewerten kann.
 Man sieht in einer Prozentzahl angegebene leiste, wieviele Leute für den Reformvorschlag
 einen Daumen hoch oder einen Daumen runter gegebenhaben.
