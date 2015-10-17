@@ -1,10 +1,9 @@
 
-from django.http import HttpResponse
 from bs4 import BeautifulSoup
 import requests
 from datetime import datetime
 from .models import Entry
-
+from django.shortcuts import render
 
 def hallo(request):#
 
@@ -58,4 +57,4 @@ def hallo(request):#
 
 
 
-    return HttpResponse(str(hplist))
+    return render(request,"index.html", {"entries": Entry.objects.all()})

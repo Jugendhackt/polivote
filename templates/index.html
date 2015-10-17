@@ -11,13 +11,15 @@
 </head>
 
 <body>
+
     <div id="Header">
-        <h1>Gesetze.de</h1>
+        <h1>Polivote</h1>
     </div>
+    {% for entry in entries %}
     <div id="row">
         <div class="jumbotron col-xs-6 col-xs-offset-3">
-            <h2>Tagesordnungspunkt 26</h2>
-            <p>Beratung des Antrags der Fraktion DIE LINKE. Krankenhäuser gemeinwohlorientiert und bedarfsgerecht finanzieren</p>
+            <h2>{{entry.tpunkt}}</h2>
+            <p>{{entry.text}}</p>
             <div class="progress">
                 <div class="progress-bar progress-bar-success" role="progressbar" style="width: 60%;">
                     60%
@@ -36,6 +38,7 @@
 
         </div>
     </div>
+    {% endfor %}
     <div id="row">
         <div class="jumbotron col-xs-6 col-xs-offset-3">
             <h1>Hello, world!</h1>
