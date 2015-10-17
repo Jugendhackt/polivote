@@ -9,6 +9,8 @@ class Entry(models.Model):
     upvotes = models.IntegerField(default = 0)
     downvotes = models.IntegerField(default = 0)
     total = models.IntegerField(default = 0)
+    class Meta:
+        ordering = ("tpunkt",)
 
     def __str__(self):
         return self.tpunkt
